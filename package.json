@@ -1,0 +1,19 @@
+{
+  "name": "personal-site-new",
+  "version": "1.0.0",
+  "description": "a personal site for Gavin Quirk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinquirk/personal-site-new.git"
+  },
+  "author": "Gavin Quirk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavinquirk/personal-site-new/issues"
+  },
+  "homepage": "https://github.com/gavinquirk/personal-site-new#readme"
+}
